@@ -8,7 +8,8 @@ explaining price peaks and variance in prices.
 
 The full analysis can be found in this repository.
 
-The results are also documented in a medium article: (to be updated after review)
+The results are also documented in a medium article: https://medium.com/@alex_14917/there-is-a-great-price-range-for-airbnb-offerings-in-munich-211c9dab7c4e
+(DRAFT - to be updated after review)
 
 ## Getting the Data
 
